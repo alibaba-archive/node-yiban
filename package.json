@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/teambition/node-yiban",
   "dependencies": {
-    "request": "^2.46.0",
     "superagent": "^0.20.0"
   }
 }
