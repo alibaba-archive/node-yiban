@@ -1,6 +1,6 @@
 {
   "name": "yiban",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "yiban sdk",
   "main": "index.js",
   "scripts": {
